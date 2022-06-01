@@ -1,0 +1,81 @@
+.cartContainer{
+    /* border: 2px solid red; */
+    background-color: #FFFFFF;
+    position: relative;
+    top: 56px; 
+    border-radius: 10px;
+  
+}
+.holeCart{
+    background-color: #fafafa;
+    height: 800px;
+}
+
+
+
+
+.rightContent{
+    text-align: right;
+}
+
+.rig{
+display: flex;
+justify-content: space-between;
+}
+
+.leftContent{
+    color: #898989;
+}
+
+.shipTax{
+    color: #898989;
+    margin-left: 80px;
+    margin-top: 10px;
+    
+}
+
+.subtotal{
+    font-size: 24px;
+}
+.subtotal1{
+    font-size: 24px;
+    color: #3695CE;
+}
+
+
+
+.cartHead{
+    font-size: 30px;
+    font-family: Rubik Bold;
+    font-weight: 900;
+    margin-left: 40px;
+
+    margin-top: 20px;
+}
+
+.cartBtn{
+    width: 335px;
+    height: 46px;
+    font-weight: 500;
+    border: none;
+    color: white;
+    background-color: #3695CE;
+    border-radius: 10px;  
+    margin-top: 20px;
+    margin-bottom: 30px;
+   
+}
+
+.continueShop{
+    color: green;
+    font-size: 18px;
+    margin-left: -16px;
+   
+}
+.continueShop:hover{
+    color: green;
+    text-decoration: none;
+   
+    
+   
+}
